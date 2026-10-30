@@ -1,0 +1,7 @@
+{
+  "1": {"class_type": "LoadVideo", "inputs": {"file": "example.mp4"}},
+  "2": {
+    "class_type": "SaveVideoLocalPath",
+    "inputs": {"video": ["1", 0], "output_folder": "", "filename": "my_clip.mp4"}
+  }
+}
