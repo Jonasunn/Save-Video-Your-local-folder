@@ -11,5 +11,5 @@ dependencies = []
 Repository = "https://github.com/Jonasunn/Save-Video-Your-local-folder"
 
 [tool.comfy]
-PublisherId = "Jonasunn"
+PublisherId = "jonasunn"
 DisplayName = "Save Video — Your Local Folder"
